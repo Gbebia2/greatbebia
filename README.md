@@ -1,4 +1,4 @@
-# greatbebia
+# Great Bebia
 
 Hello, GitHub! 👋  
 
